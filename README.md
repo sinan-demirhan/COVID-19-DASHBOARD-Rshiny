@@ -20,16 +20,16 @@ You can go shiny web version of this project from [here](https://sdemirhan1320.s
   <li>İtaly</li>
 </ul>  
 
-<img src="img/c2.png" style="width:200px;height:400px;">
+<img src="img/c2.png" style="width:600px;height:400px;">
 
-<img src="img/c3.png" style="width:200px;height:400px;">
+<img src="img/c3.png" style="width:600px;height:400px;">
 
-<img src="img/c4.png" style="width:200px;height:400px;">
+<img src="img/c4.png" style="width:600px;height:400px;">
 
 
 
-<img src="img/c1.png" style="width:200px;height:400px;">
+<img src="img/c1.png" style="width:600px;height:400px;">
 
-<img src="img/c5.png" style="width:200px;height:400px;">
+<img src="img/c5.png" style="width:600px;height:400px;">
 
-<img src="img/c6.png" style="width:200px;height:400px;">
+<img src="img/c6.png" style="width:600px;height:400px;">
